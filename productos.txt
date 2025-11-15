@@ -1,0 +1,5 @@
+Manzanas,1500.0,50
+Bananas,1200.0,30
+Naranjas,1800.0,40
+Peras,1300.0,35
+Sandia,2000.0,5
